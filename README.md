@@ -43,6 +43,7 @@ Then, new file ‘dimensions.txt’ will be created in the same place where you 
 ![polacz 2](https://github.com/KowalQie/Python-Solidworks-OOP/assets/152272520/52b00719-7ddf-427c-9ab3-b1873fe4cb38)
 
 Congratulations !
+
 Now you can run your code every time if you want to do some changes in your Solid Works model and Click Rebuild to refresh the view.
 
 
