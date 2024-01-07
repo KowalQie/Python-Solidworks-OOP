@@ -3,7 +3,9 @@ Manipulate dimensions of global variables in SolidWorks using Python
 
 Hello,
 I want to introduce you to programm that can you use for manipulate the global variables in Solid Works part by using Python.
+
 ![Przechwytywanie](https://github.com/KowalQie/Python-Solidworks-OOP/assets/152272520/f7476a3d-32b9-462c-96ba-efa0ab30e316)
+
 Here are the steps that you can follow to achieve this:
 
 1.	Copy the code in the main.py to your Python IDE. Python IDE that i’m using is PyCharm.
