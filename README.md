@@ -16,6 +16,9 @@ The variables that i manipulate are defined in the line 6 – line 11:
 Define and name the variables that you want to manipulate in SolidWorks and replace them in code. Then save the code in the
 Here is the graphic representation of my variables:
 
+[Dimensons1.pdf](https://github.com/KowalQie/Python-Solidworks-OOP/files/13852896/Dimensons1.pdf)
+
+
 3.	Run your code. You have to define values of your dimensions. 
 Then, new file ‘dimensions.txt’ will be created in the same place where you save your code. 
 
